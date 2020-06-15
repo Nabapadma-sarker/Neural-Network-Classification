@@ -1,0 +1,4 @@
+
+
+predict_images/*
+!predict_images/all_images.txt
